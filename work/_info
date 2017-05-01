@@ -1,0 +1,665 @@
+m255
+K3
+13
+cModel Technology
+dD:\CMP-year2\MP\Installed\modelsim_ase\Pipeline
+Eabsdiff
+Z0 w1493614344
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx4 ieee 9 math_real 0 22 :iME`dTX54_U49lJNF5JI3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dD:\CMP-year2\MP\Installed\modelsim_ase\CameraEnhancement
+Z6 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/teemp.vhd
+Z7 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/teemp.vhd
+l0
+L5
+VSejfgh0P48YPg?^eTSo1@1
+!s100 B9BI0[2k9c3g?9>chlS]C1
+Z8 OV;C;10.1b;51
+32
+!i10b 1
+Z9 !s108 1493623107.041000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/teemp.vhd|
+Z11 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/teemp.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+At
+R1
+R2
+R3
+R4
+DEx4 work 7 absdiff 0 22 Sejfgh0P48YPg?^eTSo1@1
+l22
+L12
+VEYL=15lS>_0:ggBVHiR9I1
+!s100 8`Lk[mH]IHAffHl8S^z9m0
+R8
+32
+!i10b 1
+R9
+R10
+R11
+R12
+R13
+Eaf
+Z14 w1493561338
+R1
+R2
+R3
+R4
+R5
+Z15 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/AF.vhd
+Z16 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/AF.vhd
+l0
+L6
+V1P`aH1dF2?QVzdXiCGLFS3
+R8
+32
+Z17 !s108 1493561374.266000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/AF.vhd|
+Z19 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/AF.vhd|
+R12
+R13
+!s100 0meIilKA2mC0=<@OVKOCJ2
+!i10b 1
+Aaf_a
+R1
+R2
+R3
+R4
+DEx4 work 2 af 0 22 1P`aH1dF2?QVzdXiCGLFS3
+l47
+L19
+VG5ml63^Kc=;HVAbJhMj?[0
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 JfPY3]1N?<i[cDWl0I8Z40
+!i10b 1
+Ecache
+Z20 w1493550377
+R1
+R3
+R4
+R5
+Z21 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Cache.vhd
+Z22 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Cache.vhd
+l0
+L5
+V1IPUTTl;jdV?ERYXSo0S20
+R8
+32
+Z23 !s108 1493553813.208000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Cache.vhd|
+Z25 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Cache.vhd|
+R12
+R13
+!s100 8G2kPTh5YbKaY?;z;hgEG3
+!i10b 1
+Amem_a
+R1
+R3
+R4
+DEx4 work 5 cache 0 22 1IPUTTl;jdV?ERYXSo0S20
+l19
+L14
+V]9K7N3ccoIB;G;ho4k[Uf1
+R8
+32
+R23
+R24
+R25
+R12
+R13
+!s100 a>3o5BdM>KT3znn[5D`6h0
+!i10b 1
+Ecounter
+Z26 w1493549338
+R2
+Z27 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z28 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R3
+R4
+R5
+Z29 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Counter.vhd
+Z30 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Counter.vhd
+l0
+L6
+VmMi>M`mWdmMEOAmNPI<5m1
+R8
+32
+Z31 !s108 1493553808.857000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Counter.vhd|
+Z33 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Counter.vhd|
+R12
+R13
+!s100 :JokfUNEnWSzO<E>_^5zA1
+!i10b 1
+Ac_a
+R2
+R27
+R28
+R3
+R4
+DEx4 work 7 counter 0 22 mMi>M`mWdmMEOAmNPI<5m1
+l18
+L16
+VRk=l_n?i70e4alg5PK1K_0
+R8
+32
+R31
+R32
+R33
+R12
+R13
+!s100 L3h313S_0Q>fDS=mR^;?l1
+!i10b 1
+Efem
+Z34 w1493614164
+R1
+R2
+R3
+R4
+R5
+Z35 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/FEM.vhd
+Z36 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/FEM.vhd
+l0
+L6
+V6U:RPAA;NFz`Hcg82C<DW0
+R8
+32
+Z37 !s108 1493623106.109000
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/FEM.vhd|
+Z39 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/FEM.vhd|
+R12
+R13
+!s100 3Iec`n2K6ICUOI3=OnKMg1
+!i10b 1
+Af_a
+R1
+R2
+R3
+R4
+DEx4 work 3 fem 0 22 6U:RPAA;NFz`Hcg82C<DW0
+l76
+L20
+VAn9^BGfiN<CgV3A5OOcN?1
+R8
+32
+R37
+R38
+R39
+R12
+R13
+!s100 AOja=:a[G^6Yf9]?k[Wcf1
+!i10b 1
+Emux2
+Z40 w1492687252
+R3
+R4
+R5
+Z41 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/mux2.vhd
+Z42 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/mux2.vhd
+l0
+L4
+VKVAN7GYC>G5gC2hJgbLBG0
+R8
+32
+Z43 !s108 1493553809.359000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/mux2.vhd|
+Z45 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/mux2.vhd|
+R12
+R13
+!s100 Mj_aOe[n9MJKDOZaeSmV72
+!i10b 1
+Adata_flow
+R3
+R4
+DEx4 work 4 mux2 0 22 KVAN7GYC>G5gC2hJgbLBG0
+l13
+L12
+VI`8EhjUeYndfXGgJkc>oj0
+R8
+32
+R43
+R44
+R45
+R12
+R13
+!s100 jX32ZBO9MzP5lCVXRTnd62
+!i10b 1
+Emux2_bit
+Z46 w1480974584
+R3
+R4
+R5
+Z47 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/mux2_1bit.vhd
+Z48 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/mux2_1bit.vhd
+l0
+L4
+V@<faCaD;BD1Ef1IR94DO[0
+R8
+32
+Z49 !s108 1493553811.477000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/mux2_1bit.vhd|
+Z51 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/mux2_1bit.vhd|
+R12
+R13
+!s100 @<1J15L_O>QPZ2SWKel2?2
+!i10b 1
+Adata_flow
+R3
+R4
+DEx4 work 8 mux2_bit 0 22 @<faCaD;BD1Ef1IR94DO[0
+l12
+L11
+V<U_n?5KM4nilMUX7L6F2A3
+R8
+32
+R49
+R50
+R51
+R12
+R13
+!s100 nX3hFbcRbHG^S;^?QG8Ak1
+!i10b 1
+Emux4
+Z52 w1492868831
+R3
+R4
+R5
+Z53 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/mux4.vhd
+Z54 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/mux4.vhd
+l0
+L4
+Vd6Uh8YY@>J4N;3:QA18Dl1
+R8
+32
+Z55 !s108 1493553809.807000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/mux4.vhd|
+Z57 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/mux4.vhd|
+R12
+R13
+!s100 Eb]HMN0WHF8>cPDcRjiRc2
+!i10b 1
+Adata_flow
+R3
+R4
+DEx4 work 4 mux4 0 22 d6Uh8YY@>J4N;3:QA18Dl1
+l13
+L12
+VH75gjB=D2[7na4lj?Df4b0
+R8
+32
+R55
+R56
+R57
+R12
+R13
+!s100 7f0g]hlWgT^?Cf8cT3D2E1
+!i10b 1
+Emy_adder
+Z58 w1493099850
+R3
+R4
+R5
+Z59 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/my_adder.vhd
+Z60 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/my_adder.vhd
+l0
+L4
+VO3ZSPBI7Y_<Q8F]o5YYo62
+R8
+32
+Z61 !s108 1493623106.556000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/my_adder.vhd|
+Z63 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/my_adder.vhd|
+R12
+R13
+!s100 MH[Uok7XV5G?;k^QCbLeD0
+!i10b 1
+Aa_my_adder
+R3
+R4
+DEx4 work 8 my_adder 0 22 O3ZSPBI7Y_<Q8F]o5YYo62
+l10
+L9
+Vk<gY`5cGLeYR3mC5Zkz8<2
+R8
+32
+R61
+R62
+R63
+R12
+R13
+!s100 kXVBcA7b:^CARamXXoEzO1
+!i10b 1
+Emy_dff
+Z64 w1473879410
+R3
+R4
+R5
+Z65 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/my_dff.vhd
+Z66 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/my_dff.vhd
+l0
+L4
+V>An_nZYS`FRZGQGBT5lCz3
+R8
+32
+Z67 !s108 1493109698.137000
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/my_dff.vhd|
+Z69 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/my_dff.vhd|
+R12
+R13
+!s100 Df0F]ElWY>U5k`790Oed43
+!i10b 1
+Aa_my_dff
+R3
+R4
+DEx4 work 6 my_dff 0 22 >An_nZYS`FRZGQGBT5lCz3
+l10
+L9
+Veh>SkK:L_3Fd5B2RDn<6P0
+R8
+32
+R67
+R68
+R69
+R12
+R13
+!s100 ^1gGJ`4EgF^A6CANOiY_K1
+!i10b 1
+Emy_nadder
+R58
+R3
+R4
+R5
+Z70 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Nadder.vhd
+Z71 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Nadder.vhd
+l0
+L4
+V6;P4zkYB[jnTW>ECh^^>60
+R8
+32
+Z72 !s108 1493623106.786000
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Nadder.vhd|
+Z74 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Nadder.vhd|
+R12
+R13
+!s100 L3_Oe6NgL6[k7KFi4i1683
+!i10b 1
+Aa_my_nadder
+R3
+R4
+DEx4 work 9 my_nadder 0 22 6;P4zkYB[jnTW>ECh^^>60
+l22
+L13
+VR<S@DncZBgJIZEHGVflTa3
+R8
+32
+R72
+R73
+R74
+R12
+R13
+!s100 dcSFnYfi9oO36e0khZNM;0
+!i10b 1
+Emy_ndff
+Z75 w1493109687
+R3
+R4
+R5
+Z76 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/my_ndff.vhd
+Z77 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/my_ndff.vhd
+l0
+L5
+VV2Sz6>EAGjk>P?l?`F>aV1
+R8
+32
+Z78 !s108 1493109698.465000
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/my_ndff.vhd|
+Z80 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/my_ndff.vhd|
+R12
+R13
+!s100 @F1ZcYVEIAU0HPS]BcA7Y0
+!i10b 1
+Aa_my_ndff
+R3
+R4
+DEx4 work 7 my_ndff 0 22 V2Sz6>EAGjk>P?l?`F>aV1
+l14
+L13
+VlUezVzg4755?ToejY]W9i0
+R8
+32
+R78
+R79
+R80
+R12
+R13
+!s100 G8R[ZEOf92=D87iL_dG?01
+!i10b 1
+Ereg
+Z81 w1493109976
+R3
+R4
+R5
+Z82 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Reg.vhd
+Z83 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Reg.vhd
+l0
+L3
+V0j;okUVS30D=F0i`o^LP@0
+R8
+32
+Z84 !s108 1493553810.192000
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Reg.vhd|
+Z86 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Reg.vhd|
+R12
+R13
+!s100 O2=I@>A8K<jE2JHY4E6a<1
+!i10b 1
+Aa_reg
+R3
+R4
+DEx4 work 3 reg 0 22 0j;okUVS30D=F0i`o^LP@0
+l12
+L11
+VX;LUHnTn>z^Ebo:8E_4hn1
+R8
+32
+R84
+R85
+R86
+R12
+R13
+!s100 Z`Rh8K7?i_<GALOmc]FYO0
+!i10b 1
+Ereg1bit
+Z87 w1493552225
+R3
+R4
+R5
+Z88 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Reg1bit.vhd
+Z89 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Reg1bit.vhd
+l0
+L3
+VO6Oe<jln2jb1j>T2GnYzG2
+R8
+32
+Z90 !s108 1493553811.061000
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Reg1bit.vhd|
+Z92 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Reg1bit.vhd|
+R12
+R13
+!s100 hCi3]]Hn`0cnO_e3oET`C3
+!i10b 1
+Aa_reg
+R3
+R4
+DEx4 work 7 reg1bit 0 22 O6Oe<jln2jb1j>T2GnYzG2
+l11
+L10
+V;PSWa=Qgg9AFWSjeYm4_20
+R8
+32
+R90
+R91
+R92
+R12
+R13
+!s100 dBlGdB7I2Zb9Q>SC=XXPa3
+!i10b 1
+Estatemachine
+Z93 w1493567350
+R3
+R4
+R5
+Z94 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/StateMachine.vhd
+Z95 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/StateMachine.vhd
+l0
+L4
+VlRkU?@e]WKZSachK[6b?P2
+R8
+32
+Z96 !s108 1493567367.019000
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/StateMachine.vhd|
+Z98 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/StateMachine.vhd|
+R12
+R13
+!s100 ?IbIi4_EFaU9ogdhXL<1m3
+!i10b 1
+Asm
+R3
+R4
+DEx4 work 12 statemachine 0 22 lRkU?@e]WKZSachK[6b?P2
+l19
+L13
+VX2:HMVRA@SkkT^9ROblDz0
+R8
+32
+R96
+R97
+R98
+R12
+R13
+!s100 To3ZUG>lc[f[TTT:Zdeeh0
+!i10b 1
+Esystem
+Z99 w1493552637
+R1
+R3
+R4
+R5
+Z100 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/System.vhd
+Z101 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/System.vhd
+l0
+L5
+V1YJ:TnY<1MNeCHGjac3CP1
+R8
+32
+Z102 !s108 1493553813.725000
+Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/System.vhd|
+Z104 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/System.vhd|
+R12
+R13
+!s100 ?>e=HeUoKWh9^39zVHXD[3
+!i10b 1
+Asys_a
+R1
+R3
+R4
+DEx4 work 6 system 0 22 1YJ:TnY<1MNeCHGjac3CP1
+l37
+L15
+Vbm35l>0M=3kd>6]`2Jo2E1
+R8
+32
+R102
+R103
+R104
+R12
+R13
+!s100 ]MOVf>Je=Foh@LXJ;f`030
+!i10b 1
+Etest
+Z105 w1493419770
+R1
+R2
+R3
+R4
+R5
+R35
+R36
+l0
+L6
+VBghmbAk6ZLO9=7cI9NlDP0
+R8
+32
+Z106 !s108 1493419891.108000
+R38
+R39
+R12
+R13
+!s100 Xe08JG_]PY>B@8VA7VJT43
+!i10b 1
+Ac_a
+R1
+R2
+R3
+R4
+DEx4 work 4 test 0 22 BghmbAk6ZLO9=7cI9NlDP0
+l70
+L19
+V?]a`_1N1Gb;mQ0dG3l6@43
+R8
+32
+R106
+R38
+R39
+R12
+R13
+!s100 5_OSV4KOLH1b:i<4RWRae0
+!i10b 1
+Etrial
+Z107 w1493549279
+R1
+R2
+R3
+R4
+R5
+Z108 8D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Trial.vhd
+Z109 FD:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Trial.vhd
+l0
+L6
+VJQ04nH[Ra>@jO>8=WcAaA1
+R8
+32
+Z110 !s108 1493553810.692000
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Trial.vhd|
+Z112 !s107 D:/CMP-year2/MP/Installed/modelsim_ase/CameraEnhancement/Trial.vhd|
+R12
+R13
+!s100 0ELBgBE4VEGS7K6k?anCZ1
+!i10b 1
+Ac_a
+R1
+R2
+R3
+R4
+DEx4 work 5 trial 0 22 JQ04nH[Ra>@jO>8=WcAaA1
+l33
+L17
+VECI?D:PbSR]J<d2l`AMl12
+R8
+32
+R110
+R111
+R112
+R12
+R13
+!s100 Ad5D;ACKZnVOi`UFn<FA50
+!i10b 1
